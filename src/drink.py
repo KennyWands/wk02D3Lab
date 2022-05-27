@@ -4,5 +4,3 @@ class Drink:
         self.price = get_price
         self.alcohol = get_alcohol
 
-
-# alcohol value
